@@ -1,0 +1,11 @@
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\bin\Debug\netcoreapp2.0\Simple.ToExcel.deps.json
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\bin\Debug\netcoreapp2.0\Simple.ToExcel.runtimeconfig.json
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\bin\Debug\netcoreapp2.0\Simple.ToExcel.runtimeconfig.dev.json
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\bin\Debug\netcoreapp2.0\Simple.ToExcel.dll
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\bin\Debug\netcoreapp2.0\Simple.ToExcel.pdb
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\obj\Debug\netcoreapp2.0\Simple.ToExcel.csprojResolveAssemblyReference.cache
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\obj\Debug\netcoreapp2.0\Simple.ToExcel.csproj.CoreCompileInputs.cache
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\obj\Debug\netcoreapp2.0\Simple.ToExcel.AssemblyInfoInputs.cache
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\obj\Debug\netcoreapp2.0\Simple.ToExcel.AssemblyInfo.cs
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\obj\Debug\netcoreapp2.0\Simple.ToExcel.dll
+C:\Users\V-SHARA\source\repos\EPPLUS_1.1\EPPLUS_1.1\obj\Debug\netcoreapp2.0\Simple.ToExcel.pdb
